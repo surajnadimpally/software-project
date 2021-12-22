@@ -1,0 +1,12 @@
+Website Link:
+https://drive.markttp.com
+
+Login Details:
+Admin Dashboard:
+Copy this link to browser
+https://drive.markttp.com/wp-admin
+
+username: admin
+pass: driveadmin@123
+
+For any help regarding installation of the code you can contact me
